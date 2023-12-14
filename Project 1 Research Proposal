@@ -1,0 +1,18 @@
+The dataset is the customer data of the accountholders at a bank and the aim of the data will be to predict the
+customer churn. The ‘churn-rate’ is the percentage of customers who leave the bank by stopping business or by
+unsubscribing to the bank’s service. I found the dataset interesting as by identifying customers who may leave ,
+the bank can implement a retention plan so that the churn could be prevented.
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+Early identification of customers who may churn in future will help the bank devise proper strategy for holding
+them back. According to Forbes, it costs companies five times more to acquire a new customer than to retain an
+existing one. Hence devising a churn prediction model that would provide a customer’s probability of churning
+would help the bank in curbing it’s costs and raise it’s profitability.
+I would like to test the following hypothesis:
+1.) Do the factors tenure, gender, age, products, country have any impact the churn rate.
+2.) Do people with high salary but with no balance at the bank have a higher churn rate?
+3.) Do people with credit card as one of their products churn less than people without credit card?
+I would like to test the hypothesis using visualizations and various tests on the data for statistical significance.
+
+The bank’s management will find the churn analysis helpful as it would help them save costs and raise profits by
+identifying customers who are likely to churn. They can then implement customized marketing to target those
+specific customers.
