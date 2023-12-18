@@ -14,7 +14,7 @@ I would like to test the following hypothesis:
 
 I would like to test the hypothesis using visualizations and various tests on the data for statistical significance like t-test and kruskal test depending on the distribution the data follows.
 
-Ho (null) : There is no significant difference in the churn rates across tenure,age,products,country and activity status of the customers.
+Ho (null) : There is no significant difference in the churn rates of customers across tenure,age,products,country and activity status.
 Ha (alternate) : There is significant difference in the churn rates of customers across tenure,age,products,country and activity status.
 
 Ho (null) : There is no significant difference in churn rates between groups of people who have a high salary and zero account balance & those who have low salary and zero balance.
