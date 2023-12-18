@@ -8,10 +8,20 @@ them back. According to Forbes, it costs companies five times more to acquire a 
 existing one. Hence devising a churn prediction model that would provide a customer’s probability of churning
 would help the bank in curbing it’s costs and raise it’s profitability.
 I would like to test the following hypothesis:
-1.) Do the factors tenure, gender, age, products, country have any impact the churn rate.
+1.) Do the factors tenure, gender, age, products, country and activity status have any impact the churn rate.
 2.) Do people with high salary but with no balance at the bank have a higher churn rate?
 3.) Do people with credit card as one of their products churn less than people without credit card?
-I would like to test the hypothesis using visualizations and various tests on the data for statistical significance.
+
+I would like to test the hypothesis using visualizations and various tests on the data for statistical significance like t-test and kruskal test depending on the distribution the data follows.
+
+Ho (null) : There is no significant difference in the churn rates across tenure,age,products,country and activity status of the customers.
+Ha (alternate) : There is significant difference in the churn rates of customers across tenure,age,products,country and activity status.
+
+Ho (null) : There is no significant difference in churn rates between groups of people who have a high salary and zero account balance & those who have low salary and zero balance.
+Ha (alternate): There is significant difference in churn rates between groups of people who have a high salary and zero account balance & those who have low salary and zero balance.
+
+Ho (null) : There is no significant difference in the churn rates between customers who have a credit card and those who don't have.
+Ha (alternate): There is a significant difference in the churn rates between customers who have a credit card and those who don't have.
 
 The bank’s management will find the churn analysis helpful as it would help them save costs and raise profits by
 identifying customers who are likely to churn. They can then implement customized marketing to target those
