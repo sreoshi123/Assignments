@@ -1,0 +1,10 @@
+I plan to collect a recent dataset on loan customers from Lending Club through web-scraping. 
+
+The problem I’m trying to solve is loan pricing strategy. On the basis of the customer data I plan to determine the optimal yield i.e. the buy rate for the auto loan with a focus on risk management and considering additional factors such as customer value addition and customer loyalty. 
+
+Usually in order to determine the buy rate, just the customer credentials like income, credit-score, credit history etc. are taken into consideration. But these factors have a lag and usually takes time to be updated. I would try to look at other factors , like the customer's entire relationship with the institution ( considering his total assets & liabilities with the institution) in order to determine the optimal buy rate. 
+
+I plan to start by getting an initial glimpse into the loan dataset. Then I plan to do some exploratory data analysis. Then I plan to use supervised learning,i.e., the different regression techniques to determine the optimal buy rate on the basis of the features. I would use different metrics to see which regression model is most accurately able to predict the buy rate. I also plan to use unsupervised learning techniques K-Means Clustering/ Hierarchical Clustering/DBScan  to segregate the loan customers based on similar characteristics. Then would use different metrics like Silhouette score etc. to determine the most optimal clustering technique.
+
+The biggest challenge that I anticipate facing is getting an appropriate dataset that would help me to successfully accomplish the pricing tasks that I have mentioned above.
+
